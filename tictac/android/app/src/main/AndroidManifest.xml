@@ -2,7 +2,7 @@
     <application
         android:label="tictac"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/ic_launchera">
         <activity
             android:name=".MainActivity"
             android:exported="true"
